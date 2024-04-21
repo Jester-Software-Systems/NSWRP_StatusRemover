@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching over SY:RP!"];
+const statusMessages = ["Watching over NSW:RP!"];
 
 
 let currentIndex = 0;
